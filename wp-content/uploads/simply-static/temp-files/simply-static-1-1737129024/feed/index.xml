@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hesaplio</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Matematiksel Hesaplama Aracı</description>
+	<lastBuildDate>Fri, 17 Jan 2025 15:46:10 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2025/01/cropped-android-chrome-512x512-1-32x32.png</url>
+	<title>Hesaplio</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Yüzde Hesaplama</title>
+		<link>/yuzde-hesaplama/</link>
+					<comments>/yuzde-hesaplama/#respond</comments>
+		
+		<dc:creator><![CDATA[64bv7]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2025 15:46:09 +0000</pubDate>
+				<category><![CDATA[Matematik]]></category>
+		<guid isPermaLink="false">/?p=236</guid>
+
+					<description><![CDATA[sdsdsd]]></description>
+										<content:encoded><![CDATA[
+<iframe id="hesaplio" src="/new1/hesap/yuzde.html" style="width: 100%; height: 605px; overflow: hidden; border: none;" scrolling="no"></iframe><script>let iframe=document.getElementById("hesaplio");window.addEventListener("message",function(e){let message=e.data;iframe.style.height=message.height+20+"px";},false);</script>
+
+
+
+<p>sdsdsd</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/yuzde-hesaplama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Alan Hesaplama</title>
+		<link>/alan-hesaplama/</link>
+					<comments>/alan-hesaplama/#respond</comments>
+		
+		<dc:creator><![CDATA[64bv7]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2025 15:44:31 +0000</pubDate>
+				<category><![CDATA[Matematik]]></category>
+		<guid isPermaLink="false">/?p=232</guid>
+
+					<description><![CDATA[assasa]]></description>
+										<content:encoded><![CDATA[
+<iframe id="hesaplio" src="/new1/hesap/alan.html" style="width: 100%; height: 605px; overflow: hidden; border: none;" scrolling="no"></iframe><script>let iframe=document.getElementById("hesaplio");window.addEventListener("message",function(e){let message=e.data;iframe.style.height=message.height+20+"px";},false);</script>
+
+
+
+<p>assasa</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/alan-hesaplama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hacim Hesaplama</title>
+		<link>/hacim-hesaplama/</link>
+					<comments>/hacim-hesaplama/#respond</comments>
+		
+		<dc:creator><![CDATA[64bv7]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2025 15:44:00 +0000</pubDate>
+				<category><![CDATA[Matematik]]></category>
+		<guid isPermaLink="false">/?p=228</guid>
+
+					<description><![CDATA[asdsd]]></description>
+										<content:encoded><![CDATA[
+<iframe id="hesaplio" src="/new1/hesap/hacim.html" style="width: 100%; height: 605px; overflow: hidden; border: none;" scrolling="no"></iframe><script>let iframe=document.getElementById("hesaplio");window.addEventListener("message",function(e){let message=e.data;iframe.style.height=message.height+20+"px";},false);</script>
+
+
+
+<p>asdsd</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hacim-hesaplama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Çevre Hesaplama</title>
+		<link>/cevre-hesaplama/</link>
+					<comments>/cevre-hesaplama/#respond</comments>
+		
+		<dc:creator><![CDATA[64bv7]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2025 15:43:24 +0000</pubDate>
+				<category><![CDATA[Matematik]]></category>
+		<guid isPermaLink="false">/?p=224</guid>
+
+					<description><![CDATA[asasas]]></description>
+										<content:encoded><![CDATA[
+<iframe id="hesaplio" src="/new1/hesap/cevre.html" style="width: 100%; height: 605px; overflow: hidden; border: none;" scrolling="no"></iframe><script>let iframe=document.getElementById("hesaplio");window.addEventListener("message",function(e){let message=e.data;iframe.style.height=message.height+20+"px";},false);</script>
+
+
+
+<p>asasas</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/cevre-hesaplama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>İnç Hesaplama</title>
+		<link>/inc-hesaplama/</link>
+					<comments>/inc-hesaplama/#respond</comments>
+		
+		<dc:creator><![CDATA[64bv7]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2025 15:42:55 +0000</pubDate>
+				<category><![CDATA[Matematik]]></category>
+		<guid isPermaLink="false">/?p=220</guid>
+
+					<description><![CDATA[sdsd]]></description>
+										<content:encoded><![CDATA[
+<iframe id="hesaplio" src="/new1/hesap/inc.html" style="width: 100%; height: 605px; overflow: hidden; border: none;" scrolling="no"></iframe><script>let iframe=document.getElementById("hesaplio");window.addEventListener("message",function(e){let message=e.data;iframe.style.height=message.height+20+"px";},false);</script>
+
+
+
+<p>sdsd</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/inc-hesaplama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Faktöriyel Hesaplama</title>
+		<link>/faktoriyel-hesaplama/</link>
+					<comments>/faktoriyel-hesaplama/#respond</comments>
+		
+		<dc:creator><![CDATA[64bv7]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2025 15:42:21 +0000</pubDate>
+				<category><![CDATA[Matematik]]></category>
+		<guid isPermaLink="false">/?p=216</guid>
+
+					<description><![CDATA[sasas]]></description>
+										<content:encoded><![CDATA[
+<iframe id="hesaplio" src="/new1/hesap/faktoriyel.html" style="width: 100%; height: 605px; overflow: hidden; border: none;" scrolling="no"></iframe><script>let iframe=document.getElementById("hesaplio");window.addEventListener("message",function(e){let message=e.data;iframe.style.height=message.height+20+"px";},false);</script>
+
+
+
+<p>sasas</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/faktoriyel-hesaplama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Köklü Sayı Hesaplama</title>
+		<link>/koklu-sayi-hesaplama/</link>
+					<comments>/koklu-sayi-hesaplama/#respond</comments>
+		
+		<dc:creator><![CDATA[64bv7]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2025 15:41:41 +0000</pubDate>
+				<category><![CDATA[Matematik]]></category>
+		<guid isPermaLink="false">/?p=212</guid>
+
+					<description><![CDATA[asasdd]]></description>
+										<content:encoded><![CDATA[
+<iframe id="hesaplio" src="/new1/hesap/koklusayi.html" style="width: 100%; height: 605px; overflow: hidden; border: none;" scrolling="no"></iframe><script>let iframe=document.getElementById("hesaplio");window.addEventListener("message",function(e){let message=e.data;iframe.style.height=message.height+20+"px";},false);</script>
+
+
+
+<p>asasdd</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/koklu-sayi-hesaplama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Asal Çarpan Hesaplama</title>
+		<link>/asal-carpan-hesaplama/</link>
+					<comments>/asal-carpan-hesaplama/#respond</comments>
+		
+		<dc:creator><![CDATA[64bv7]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2025 15:41:04 +0000</pubDate>
+				<category><![CDATA[Matematik]]></category>
+		<guid isPermaLink="false">/?p=208</guid>
+
+					<description><![CDATA[sadsad]]></description>
+										<content:encoded><![CDATA[
+<iframe id="hesaplio" src="/new1/hesap/asalcarpan.html" style="width: 100%; height: 605px; overflow: hidden; border: none;" scrolling="no"></iframe><script>let iframe=document.getElementById("hesaplio");window.addEventListener("message",function(e){let message=e.data;iframe.style.height=message.height+20+"px";},false);</script>
+
+
+
+<p>sadsad</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/asal-carpan-hesaplama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Altın Oran Hesaplama</title>
+		<link>/altin-oran-hesaplama/</link>
+					<comments>/altin-oran-hesaplama/#respond</comments>
+		
+		<dc:creator><![CDATA[64bv7]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2025 15:40:30 +0000</pubDate>
+				<category><![CDATA[Matematik]]></category>
+		<guid isPermaLink="false">/?p=204</guid>
+
+					<description><![CDATA[asddssd]]></description>
+										<content:encoded><![CDATA[
+<iframe id="hesaplio" src="/new1/hesap/altinoran.html" style="width: 100%; height: 605px; overflow: hidden; border: none;" scrolling="no"></iframe><script>let iframe=document.getElementById("hesaplio");window.addEventListener("message",function(e){let message=e.data;iframe.style.height=message.height+20+"px";},false);</script>
+
+
+
+<p>asddssd</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/altin-oran-hesaplama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EBOB EKOK Hesaplama</title>
+		<link>/ebob-ekok-hesaplama/</link>
+					<comments>/ebob-ekok-hesaplama/#respond</comments>
+		
+		<dc:creator><![CDATA[64bv7]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2025 15:39:54 +0000</pubDate>
+				<category><![CDATA[Matematik]]></category>
+		<guid isPermaLink="false">/?p=200</guid>
+
+					<description><![CDATA[sdsdsd]]></description>
+										<content:encoded><![CDATA[
+<iframe id="hesaplio" src="/new1/hesap/ebobekok.html" style="width: 100%; height: 605px; overflow: hidden; border: none;" scrolling="no"></iframe><script>let iframe=document.getElementById("hesaplio");window.addEventListener("message",function(e){let message=e.data;iframe.style.height=message.height+20+"px";},false);</script>
+
+
+
+<p>sdsdsd</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ebob-ekok-hesaplama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
